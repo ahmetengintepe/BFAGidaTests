@@ -7,7 +7,8 @@
 
 import XCTest
 
-
+final class BFAGidaUITests: XCTestCase {
+    
     override func setUpWithError() throws {
         
         continueAfterFailure = false
